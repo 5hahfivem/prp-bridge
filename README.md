@@ -1,5 +1,7 @@
 # prp-bridge
 
+**prp-bridge helps shared scripts talk to Mythic in a consistent way, but it only covers what the bridge API and Mythic’s public behavior allow—anything else belongs in Mythic config or custom code which I will not be doing.**
+
 A framework bridge for FiveM resources in the Prodigy Studios ecosystem. Instead of writing support for multiple frameworks, inventories, or phone systems directly in each script, resources use prp-bridge to get a unified API that is independent of the underlying tech stack.
 
 ## Dependencies

@@ -14,6 +14,7 @@ BridgeConfig.Debug = true
         - qb-core
         - es_extended
         - nd_core
+        - mythic-base
 ]]
 ---@type AvailableFrameworks
 BridgeConfig.FrameWork = "qbx_core"
@@ -23,6 +24,7 @@ BridgeConfig.FrameWork = "qbx_core"
         - ox_inventory
         - origen_inventory
         - tgiann-inventory
+        - mythic-inventory
 ]]
 ---@type AvailableInventories
 BridgeConfig.Inventory = "ox_inventory"
@@ -38,6 +40,7 @@ BridgeConfig.Inventory = "ox_inventory"
         - 17mov_phone
         - gksphone
         - meteo-phone
+        - mythic-phone
 ]]
 ---@type AvailablePhones
 BridgeConfig.Phone = "lb-phone"
@@ -47,6 +50,7 @@ BridgeConfig.Phone = "lb-phone"
         - ox_target
         - qb-target
         - sleepless_interact
+        - mythic-targeting
 ]]
 ---@type AvailableTargets
 BridgeConfig.Target = "ox_target"
@@ -62,6 +66,7 @@ BridgeConfig.Target = "ox_target"
         - nd_ambulance
         - qb-ambulancejob
         - randol_medical
+        - mythic-damage
 ]]
 ---@type AvailableMedicals
 BridgeConfig.Medical = 'qbx_medical'
@@ -77,6 +82,7 @@ BridgeConfig.Medical = 'qbx_medical'
         - aty_dispatch
         - codem-dispatch
         - core_dispatch
+        - mythic-mdt
 ]]
 ---@type AvailableDispatches
 BridgeConfig.Dispatch = "ps-dispatch"
@@ -94,6 +100,7 @@ BridgeConfig.Dispatch = "ps-dispatch"
         - nd_core
         - mrnewbvehiclekeys
         - Renewed-Vehiclekeys
+        - mythic-vehicles
 ]]
 ---@type AvailableVehicleKeys
 BridgeConfig.VehicleKeys = "qbx_vehiclekeys"
@@ -106,6 +113,7 @@ BridgeConfig.VehicleKeys = "qbx_vehiclekeys"
         - lc_fuel
         - qb-fuel
         - Renewed-Fuel
+        - mythic-fuel
 ]]
 ---@type AvailableVehicleFuel
 BridgeConfig.VehicleFuel = "ox_fuel"
